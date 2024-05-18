@@ -1,13 +1,15 @@
 import './App.css'
+import PokeAPIComponent from './components/apiComponent'
 
 function App() {
 
 
   return (
-    <>
-      <h1 className='bg-black text-white'>Titulo</h1>
-      Hola
-    </>
+    <body className='bg-stone-800 min-h-screen flex flex-col items-center'>
+      <div>
+        <PokeAPIComponent/>
+      </div>
+    </body>
   )
 }
 
