@@ -15,7 +15,7 @@ npm run dev
 
 ## Axios para realizar solicitudes HTTP
 
-### Axios [Ejemplo](./src/App.jxs)
+### Axios [Ejemplo](./src/apiComponent/index.jsx)
 
 Axios es una popular librería de JavaScript que se utiliza para realizar solicitudes HTTP desde el navegador o desde Node.js. Es fácil de usar y soporta promesas, lo que facilita el manejo de respuestas asíncronas. Puedes utilizarlo tanto en el frontend como en el backend de tu aplicación web.
 
